@@ -1,2 +1,2 @@
 # info2180-lab1
-Lab1 For info2180
+This is lab 1 for Antoine Stewart
